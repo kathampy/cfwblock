@@ -1,0 +1,1 @@
+Blocks user mode access to some ms0:/ folders.
